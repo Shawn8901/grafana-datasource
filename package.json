@@ -65,7 +65,7 @@
     "webpack-merge": "5.8.0"
   },
   "resolutions": {
-    "rxjs": "7.3.0"
+    "rxjs": "7.5.6"
   },
   "engines": {
     "node": ">=14"
